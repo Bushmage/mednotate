@@ -1,0 +1,10 @@
+{
+  "outputDir": "./output",
+  "defaultFormat": "json",
+  "entityTypes": [
+    "diagnosis",
+    "medication",
+    "date",
+    "provider"
+  ]
+}

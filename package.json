@@ -1,0 +1,25 @@
+{
+  "name": "mednotate",
+  "version": "1.0.0",
+  "description": "CLI tool for parsing and annotating clinical notes with structured entity extraction",
+  "main": "index.js",
+  "bin": {
+    "mednotate": "./bin/mednotate.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["clinical", "hl7", "nlp", "medical", "notes"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}

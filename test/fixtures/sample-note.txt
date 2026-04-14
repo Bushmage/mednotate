@@ -1,0 +1,26 @@
+CLINICAL NOTE
+Date of Visit: 03/15/2024
+Patient: John A. Doe
+DOB: 1965-04-22
+
+Attending Physician: Dr. Martinez
+Referring Provider: Chen, NP
+
+CHIEF COMPLAINT:
+Follow-up for hypertension and type 2 diabetes mellitus.
+
+ASSESSMENT:
+1. Hypertension, uncontrolled (I10)
+2. Type 2 diabetes mellitus with hyperglycemia (E11.65)
+
+Dx: Community-acquired pneumonia
+Diagnosis: Chronic kidney disease, stage 3
+
+MEDICATIONS:
+Medications: Lisinopril 10mg daily, Metformin 500mg twice daily, Atorvastatin 40mg nightly
+Rx: Amoxicillin 500mg three times daily for 7 days
+
+PLAN:
+Continue current antihypertensive therapy. Recheck labs on 04/01/2024.
+Follow up with Dr. Thompson in 4 weeks.
+Patient educated on diet and exercise. Return visit scheduled for March 28, 2024.

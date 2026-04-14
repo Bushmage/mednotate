@@ -1,0 +1,137 @@
+{
+  "entities": [
+    {
+      "type": "date",
+      "value": "03/15/2024",
+      "raw": "03/15/2024",
+      "position": 29,
+      "confidence": "high"
+    },
+    {
+      "type": "date",
+      "value": "1965-04-22",
+      "raw": "1965-04-22",
+      "position": 66,
+      "confidence": "high"
+    },
+    {
+      "type": "provider",
+      "value": "Dr. Martinez",
+      "raw": "Dr. Martinez",
+      "position": 99,
+      "confidence": "high"
+    },
+    {
+      "type": "provider",
+      "value": "Chen, NP",
+      "raw": "Chen, NP",
+      "position": 132,
+      "confidence": "high"
+    },
+    {
+      "type": "diagnosis",
+      "value": "I10",
+      "raw": "I10",
+      "position": 260,
+      "confidence": "high"
+    },
+    {
+      "type": "diagnosis",
+      "value": "E11.65",
+      "raw": "E11.65",
+      "position": 313,
+      "confidence": "high"
+    },
+    {
+      "type": "diagnosis",
+      "value": "Community-acquired pneumonia",
+      "raw": "Dx: Community-acquired pneumonia",
+      "position": 322,
+      "confidence": "high"
+    },
+    {
+      "type": "diagnosis",
+      "value": "Chronic kidney disease, stage 3",
+      "raw": "Diagnosis: Chronic kidney disease, stage 3",
+      "position": 355,
+      "confidence": "high"
+    },
+    {
+      "type": "medication",
+      "value": "Lisinopril 10mg daily",
+      "raw": "Medications: Lisinopril 10mg daily, Metformin 500mg twice daily, Atorvastatin 40mg nightly",
+      "position": 412,
+      "confidence": "high"
+    },
+    {
+      "type": "medication",
+      "value": "Metformin 500mg twice daily",
+      "raw": "Medications: Lisinopril 10mg daily, Metformin 500mg twice daily, Atorvastatin 40mg nightly",
+      "position": 412,
+      "confidence": "high"
+    },
+    {
+      "type": "medication",
+      "value": "Atorvastatin 40mg nightly",
+      "raw": "Medications: Lisinopril 10mg daily, Metformin 500mg twice daily, Atorvastatin 40mg nightly",
+      "position": 412,
+      "confidence": "high"
+    },
+    {
+      "type": "medication",
+      "value": "Lisinopril",
+      "raw": "Lisinopril",
+      "position": 425,
+      "confidence": "medium"
+    },
+    {
+      "type": "medication",
+      "value": "Atorvastatin",
+      "raw": "Atorvastatin",
+      "position": 477,
+      "confidence": "medium"
+    },
+    {
+      "type": "medication",
+      "value": "Amoxicillin 500mg three times daily for 7 days",
+      "raw": "Rx: Amoxicillin 500mg three times daily for 7 days",
+      "position": 503,
+      "confidence": "high"
+    },
+    {
+      "type": "medication",
+      "value": "Amoxicillin",
+      "raw": "Amoxicillin",
+      "position": 507,
+      "confidence": "medium"
+    },
+    {
+      "type": "date",
+      "value": "04/01/2024",
+      "raw": "04/01/2024",
+      "position": 620,
+      "confidence": "high"
+    },
+    {
+      "type": "provider",
+      "value": "Dr. Thompson",
+      "raw": "Dr. Thompson",
+      "position": 647,
+      "confidence": "high"
+    },
+    {
+      "type": "date",
+      "value": "March 28, 2024",
+      "raw": "March 28, 2024",
+      "position": 738,
+      "confidence": "high"
+    }
+  ],
+  "summary": {
+    "diagnosis": 4,
+    "medication": 7,
+    "date": 4,
+    "provider": 3,
+    "total": 18
+  }
+}
